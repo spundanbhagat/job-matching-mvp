@@ -1,4 +1,4 @@
-# AI Job Matching & Skills Gap Planner
+# Job Matching & Skills Gap Planner
 
 A prototype workforce-product MVP that matches candidates to relevant jobs, explains why they match, identifies missing skills, recommends learning paths, and gives program administrators an analytics dashboard to monitor placement funnel and skill gaps.
 
