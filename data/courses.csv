@@ -1,0 +1,24 @@
+course_id,course_name,provider,skill_covered,duration_weeks,difficulty,course_type
+CR001,SQL for Analysts,Coursera,SQL,4,Beginner,Online
+CR002,Advanced Excel for Business,Udemy,Excel,3,Beginner,Online
+CR003,Power BI Dashboarding,Udemy,Power BI,3,Beginner,Online
+CR004,Python for Data Work,Coursera,Python,5,Intermediate,Online
+CR005,Business Communication Essentials,edX,Communication,2,Beginner,Online
+CR006,Stakeholder Management Basics,LinkedIn Learning,Stakeholder Management,2,Beginner,Online
+CR007,Agile Fundamentals,Coursera,Agile,2,Beginner,Online
+CR008,Jira for Teams,Udemy,Jira,2,Beginner,Online
+CR009,Risk Management Essentials,Coursera,Risk Management,4,Intermediate,Online
+CR010,Technical Documentation Basics,LinkedIn Learning,Documentation,2,Beginner,Online
+CR011,Data Cleaning with Python,Udemy,Data Cleaning,3,Intermediate,Online
+CR012,REST API Fundamentals,Udemy,APIs,3,Beginner,Online
+CR013,Git and Version Control,Coursera,Git,2,Beginner,Online
+CR014,Reporting for Analysts,edX,Reporting,2,Beginner,Online
+CR015,Process Improvement Basics,Coursera,Process Improvement,3,Beginner,Online
+CR016,Cloud Computing Foundations,Google,Cloud,4,Beginner,Online
+CR017,Docker Essentials,Udemy,Docker,2,Beginner,Online
+CR018,Problem Solving and Critical Thinking,edX,Problem Solving,2,Beginner,Online
+CR019,Recruitment Foundations,LinkedIn Learning,Recruitment,3,Beginner,Online
+CR020,Resume Screening and Shortlisting,Udemy,CV Screening,2,Beginner,Online
+CR021,Tableau Dashboard Design,Coursera,Tableau,3,Beginner,Online
+CR022,Customer Service Fundamentals,LinkedIn Learning,Customer Service,2,Beginner,Online
+CR023,Project Coordination Basics,Coursera,Project Coordination,2,Beginner,Online
